@@ -1,5 +1,5 @@
-import Vimeo from '@vimeo/player';
-import throttle from 'lodash.throttle';
+import Vimeo from "@vimeo/player";
+import throttle from "lodash.throttle";
 
 const vimeoPlayer = new Vimeo('vimeo-player');
 const KEY = 'videoplayer-current-time';
